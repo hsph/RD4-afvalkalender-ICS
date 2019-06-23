@@ -1,0 +1,418 @@
+[
+    {
+      "FIELD1": "Donderdag 3 januari 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 3 januari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 3 januari 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 9 januari 2019",
+      "FIELD2": "Kerstbomen"
+    },
+    {
+      "FIELD1": "Donderdag 10 januari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 15 januari 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 16 januari 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 17 januari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 24 januari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 29 januari 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 31 januari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 7 februari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 12 februari 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 13 februari 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 14 februari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 21 februari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 26 februari 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 28 februari 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 7 maart 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 7 maart 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 12 maart 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 13 maart 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 14 maart 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 21 maart 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 26 maart 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Dinsdag 26 maart 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Donderdag 28 maart 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 4 april 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 9 april 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 10 april 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 11 april 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 16 april 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Donderdag 18 april 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 23 april 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 25 april 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 2 mei 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 2 mei 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 7 mei 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Dinsdag 7 mei 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Woensdag 8 mei 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 9 mei 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 16 mei 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 21 mei 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 23 mei 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Zaterdag 1 juni 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 4 juni 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 6 juni 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Woensdag 12 juni 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 13 juni 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 18 juni 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 20 juni 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 27 juni 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 2 juli 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 4 juli 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 4 juli 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Woensdag 10 juli 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 11 juli 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 16 juli 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 18 juli 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 25 juli 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 30 juli 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 1 augustus 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 8 augustus 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 13 augustus 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 14 augustus 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 15 augustus 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 22 augustus 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 27 augustus 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 29 augustus 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 5 september 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 5 september 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 10 september 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 11 september 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 12 september 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 17 september 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Donderdag 19 september 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 24 september 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 26 september 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 3 oktober 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 8 oktober 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Dinsdag 8 oktober 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Woensdag 9 oktober 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 10 oktober 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 17 oktober 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 22 oktober 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 24 oktober 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 29 oktober 2019",
+      "FIELD2": "Snoeiafval op afspraak"
+    },
+    {
+      "FIELD1": "Donderdag 31 oktober 2019",
+      "FIELD2": "BEST-tas"
+    },
+    {
+      "FIELD1": "Donderdag 31 oktober 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 5 november 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 6 november 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 7 november 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 14 november 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 19 november 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 21 november 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 28 november 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 3 december 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Woensdag 4 december 2019",
+      "FIELD2": "Oud papier"
+    },
+    {
+      "FIELD1": "Donderdag 5 december 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Donderdag 12 december 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 17 december 2019",
+      "FIELD2": "PMD-afval"
+    },
+    {
+      "FIELD1": "Donderdag 19 december 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Zaterdag 28 december 2019",
+      "FIELD2": "GFT"
+    },
+    {
+      "FIELD1": "Dinsdag 31 december 2019",
+      "FIELD2": "PMD-afval"
+    }
+   ]
