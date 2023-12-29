@@ -34,10 +34,12 @@ function parseDate(input) {
 
 items.forEach(function(key, index){
     var d = parseDate(key.FIELD1);
-    const event = cal.createEvent();
-    event.start(d);
-    event.allDay(true);
-    event.summary(key.FIELD2);
+
+    cal.createEvent({
+        start: d,
+        allDay: true,
+        summary: key.FIELD2
+    });
 });
 
 cal.saveSync('calendar-items.ics');
