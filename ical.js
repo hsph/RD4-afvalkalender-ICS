@@ -34,12 +34,14 @@ function parseDate(input) {
 
 items.forEach(function(key, index){
     var d = parseDate(key.FIELD1);
-
-    cal.createEvent({
+    
+    const event = cal.createEvent({
         start: d,
         allDay: true,
         summary: key.FIELD2
     });
+
+    const alarm = event.createAlarm({type: 'display', trigger: 21600});
 });
 
 cal.saveSync('calendar-items.ics');
